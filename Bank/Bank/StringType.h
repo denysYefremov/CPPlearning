@@ -1,10 +1,5 @@
 #pragma once
 
-#ifndef STRING
-#define STRING
-
-#include <string>;
+#include <string>
 
 using String = std::string;
-
-#endif
